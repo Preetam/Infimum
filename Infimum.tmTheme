@@ -91,15 +91,6 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Variable</string>
-			<key>scope</key>
-			<string>variable</string>
-			<key>settings</key>
-			<dict>
-			</dict>
-		</dict>
-		<dict>
-			<key>name</key>
 			<string>Keyword</string>
 			<key>scope</key>
 			<string>keyword</string>
@@ -250,17 +241,6 @@
 				<string>italic</string>
 				<key>foreground</key>
 				<string>#000000</string>
-			</dict>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Library variable</string>
-			<key>scope</key>
-			<string>support.other.variable</string>
-			<key>settings</key>
-			<dict>
-				<key>fontStyle</key>
-				<string></string>
 			</dict>
 		</dict>
 		<dict>
