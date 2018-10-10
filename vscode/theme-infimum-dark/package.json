@@ -1,0 +1,22 @@
+{
+    "name": "theme-infimum-dark",
+    "displayName": "Infimum Dark",
+    "description": "",
+    "version": "0.1.0",
+    "publisher": "preetamjinka",
+    "engines": {
+        "vscode": "^0.10.10"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Infimum Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/infimum-dark.json"
+            }
+        ]
+    }
+}

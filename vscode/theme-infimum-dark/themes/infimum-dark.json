@@ -1,0 +1,64 @@
+{
+  "type": "dark",
+  "colors": {
+    "editor.lineHighlightBackground": "#222222",
+    "editorIndentGuide.background": "#111111",
+    "editorIndentGuide.activeBackground": "#222222",
+    "editorLineNumber.foreground": "#4f4f4f",
+    "editorLineNumber.activeForeground": "#4e4e4e",
+    "statusBar.background": "#333333",
+    "statusBar.foreground": "#888888",
+    "editor.selectionBackground": "#e3e3e3",
+    "editorBracketMatch.background": "#eeeeee",
+    "editorBracketMatch.border": "#dddddd",
+    "sideBar.background": "#151515",
+    "sideBar.foreground": "#505050",
+    "sideBarSectionHeader.background": "#101010",
+    "sideBarSectionHeader.foreground": "#505050"
+  },
+  "tokenColors": [
+    {
+      "settings": {
+        "foreground": "#000000",
+        "background": "#ffffff"
+      }
+    },
+    {
+      "name": "Comments",
+      "scope": [
+        "comment"
+      ],
+      "settings": {
+        "foreground": "#505050"
+      }
+    },
+    {
+      "name": "Keywords",
+      "scope": [
+        "keyword"
+      ],
+      "settings": {
+        "fontStyle": "bold"
+      }
+    },
+    {
+      "name": "Strings and constants",
+      "scope": [
+        "constant",
+        "string"
+      ],
+      "settings": {
+        "foreground": "#8d8d8d"
+      }
+    },
+    {
+      "name": "Storage",
+      "scope": [
+        "storage"
+      ],
+      "settings": {
+        "fontStyle": "italic"
+      }
+    }
+  ]
+}
