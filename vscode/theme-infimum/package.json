@@ -5,7 +5,7 @@
     "version": "0.1.0",
     "publisher": "preetamjinka",
     "engines": {
-        "vscode": "^0.10.10"
+        "vscode": "^1.32.0"
     },
     "categories": [
         "Themes"
