@@ -2,7 +2,7 @@
     "name": "theme-infimum",
     "displayName": "Infimum",
     "description": "",
-    "version": "0.1.0",
+    "version": "0.2.0",
     "publisher": "preetamjinka",
     "engines": {
         "vscode": "^1.32.0"
